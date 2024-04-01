@@ -1,0 +1,12 @@
+{
+  "name": "structured-llm",
+  "version": "1.0.0",
+  "description": "A tool for structuring inputs and outputs of large language models. The real power of generative language AI is in using the data programatically, for machine usage & consumption.",
+  "main": "index.js",
+  "author": "Elliott Storey",
+  "license": "ISC",
+  "dependencies": {
+    "ajv": "^8.12.0",
+    "ajv-formats": "^3.0.1"
+  }
+}
